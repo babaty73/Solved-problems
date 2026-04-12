@@ -1,4 +1,4 @@
-#print("hello world")
+#leet code problem 
  #class Solution:
     #def convertTemperature(self, celsius: float) -> List[float]:
     #    celsius = int(input())
@@ -11,6 +11,8 @@
  #       if num % i == 1:
  #           print(num)
  #           break
+
+# another leet code problem
 def my_function(fname):
    # fname[0] = "anna"
     print(fname[0] + " Refsnes")
