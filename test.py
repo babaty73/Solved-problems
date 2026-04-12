@@ -11,7 +11,16 @@
  #       if num % i == 1:
  #           print(num)
  #           break
-
+"""
+brain's photo 
+n = int(input())
+m = int(input())
+arr = [n, m]
+if arr :
+    print("#color")
+else:
+    print("#Black&White")
+"""
 # another leet code problem
 def my_function(fname):
    # fname[0] = "anna"
