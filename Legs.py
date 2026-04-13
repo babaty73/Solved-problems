@@ -1,4 +1,4 @@
-#codeforce 1996 A
+#codeforce problem 1996 A
 t = int(input())
 for i in range(t):
     n = int(input())
