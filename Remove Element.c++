@@ -1,4 +1,5 @@
 //leet code problem 27 Remove Element using C++
+#include vector
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
