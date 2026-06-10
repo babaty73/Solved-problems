@@ -1,6 +1,6 @@
 class Solution:
     def theMaximumAchievableX(self, num: int, t: int) -> int:
-        x = num + t + t
+        x = num + t+ t
         b = x
         for i in range(t):
             num += 1
