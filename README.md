@@ -12,9 +12,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/babaty73/Solved-problems/tree/master/0344-reverse-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/babaty73/Solved-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/babaty73/Solved-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/babaty73/Solved-problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
