@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/babaty73/Solved-problems/tree/master/0035-search-insert-position) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/babaty73/Solved-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/babaty73/Solved-problems/tree/master/4087-maximum-substrings-with-distinct-start) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/babaty73/Solved-problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
