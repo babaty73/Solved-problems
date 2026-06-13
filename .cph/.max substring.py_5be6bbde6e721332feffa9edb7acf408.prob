@@ -1,0 +1,1 @@
+{"name":"Local: max substring","url":"c:\\Users\\user\\Desktop\\imran-website\\NCC-DSA\\max substring.py","tests":[{"id":1781185549245,"input":"s = \"abab\"","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\Desktop\\imran-website\\NCC-DSA\\max substring.py","group":"local","local":true}
