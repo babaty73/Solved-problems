@@ -1,4 +1,5 @@
 #codeforce problem 1772 A
+
 t = int(input())
 for i in range(t):
     a = input()
